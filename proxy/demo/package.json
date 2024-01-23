@@ -1,0 +1,12 @@
+{
+  "name": "demo",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsx demo.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "dotenv": "^16.3.2",
+    "tsx": "^4.7.0"
+  }
+}

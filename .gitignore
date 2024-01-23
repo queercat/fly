@@ -1,1 +1,3 @@
 proxy.exe
+.env
+/proxy/demo/node_modules
